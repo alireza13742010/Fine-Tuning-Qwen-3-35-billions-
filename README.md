@@ -341,6 +341,9 @@ streamlit run 07_streamlit_app.py
 Then open the URL Streamlit prints (usually `http://localhost:8501`).
 
 ---
+## Stage 7 UI 
+![Uploading Screenshot from 2026-08-15 14-11-28.png…]()
+
 
 ## Configuration reference
 
