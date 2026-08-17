@@ -1,5 +1,6 @@
+# Link to Our Youtube Channel
+https://www.youtube.com/playlist?list=PLOmNrnct03GY
 # Medical Reasoning Assistant — Qwen3-14B (SFT + DPO / RLHF)
-
 A single-GPU (24GB-class) end-to-end pipeline that fine-tunes **Qwen3-14B**
 into a medical chain-of-thought reasoning assistant using:
 
